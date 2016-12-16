@@ -26,4 +26,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 <center>
-<iframe src="//giphy.com/embed/S5P5zdiICmn60" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/los-simpsons-S5P5zdiICmn60">via GIPHY</a></p></center>
+<iframe src="//giphy.com/embed/S5P5zdiICmn60?html5=true" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/los-simpsons-S5P5zdiICmn60">via GIPHY</a></p></center>
